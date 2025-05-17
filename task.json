@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "done",
+    "status": "todo",
+    "createdAt": "2025-05-17T01:40:04.719Z",
+    "updatedAt": "2025-05-17T01:42:03.468Z"
+  },
+  {
+    "id": 2,
+    "description": "Meet with Prince",
+    "status": "todo",
+    "createdAt": "2025-05-17T01:41:13.879Z",
+    "updatedAt": "2025-05-17T01:41:13.880Z"
+  },
+  {
+    "id": 3,
+    "description": "Send email with a CV attachment",
+    "status": "todo",
+    "createdAt": "2025-05-17T01:41:28.475Z",
+    "updatedAt": "2025-05-17T01:41:28.475Z"
+  }
+]
