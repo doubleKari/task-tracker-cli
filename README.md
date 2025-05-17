@@ -116,10 +116,6 @@ Each task has the following properties:
 
 Tasks are stored in a JSON file (`task.json`) located in the same directory as the application. This file is automatically created when you add your first task.
 
-## License
+## Note
 
-MIT
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+This is a project from [roadmaps.sh](https://roadmap.sh/projects/task-tracker)
